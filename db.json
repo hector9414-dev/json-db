@@ -4,7 +4,11 @@
             "id"       : 1,
             "title"     : "React desde cero",
             "img"       : "https://drupal.ed.team/sites/default/files/styles/16_9_medium/public/imagenes-cdn-edteam/2019-04/React%20desde%20cero%20%281%29.png",
+<<<<<<< HEAD
             "price"     : 30,
+=======
+            "price"     :  30,
+>>>>>>> b4a054f70b8b20236c4f3605769a7b41f7bbb5f0
             "profesor"  : "Beto Quiroga"
           
             },
